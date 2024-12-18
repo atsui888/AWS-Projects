@@ -1,4 +1,7 @@
 # AWS-Projects
-Repo of AWS related projects I have done that can be displayed in public.
+Repo of Demo AWS projects.
+
+. Image Labeller using AWS Rekognition (WIP)
+. Language Translation Chatbot using Amazon Lex (WIP)
 
 WIP
